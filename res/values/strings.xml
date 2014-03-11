@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZoomSplashScreen</string>
+    <string name="next">NEXT</string>
+    <string name="thanks">Thank you!</string>
+    <string name="hello">Hello.</string>
+
+</resources>
